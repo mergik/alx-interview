@@ -1,10 +1,14 @@
 #!/usr/bin/python3
-""" this module contains
-a method that determines if all the boxes can be opened """
+"""
+this module contains
+a method that determines if all the boxes can be opened
+"""
 
 
 def canUnlockAll(boxes):
-    """ method that determines if all the boxes can be opened """
+    """
+    method that determines if all the boxes can be opened
+    """
     keys = set()
     for i in range(len(boxes)):
         if i not in keys and i != 0:
