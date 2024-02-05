@@ -8,3 +8,4 @@ A set of short tests that may serve as technical interviews written in Python.
 | `0x02. Minimum Operations` | Method that calculates the fewest number of operations needed |
 | `0x03. Log Parsing` | Script that reads stdin line by line and computes metrics |
 | `0x04. UTF-8 Validation` | Method that determines if a given data set represents a valid UTF-8 encoding. |
+| `0x05. N Queens` | A program that solves the N queens challenge. |
