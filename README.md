@@ -9,3 +9,4 @@ A set of short tests that may serve as technical interviews written in Python.
 | `0x03. Log Parsing` | Script that reads stdin line by line and computes metrics |
 | `0x04. UTF-8 Validation` | Method that determines if a given data set represents a valid UTF-8 encoding. |
 | `0x05. N Queens` | A program that solves the N queens challenge. |
+| `0x06-starwars_api` | Script that prints all characters of a Star Wars movie |
