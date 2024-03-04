@@ -12,3 +12,4 @@ A set of short tests that may serve as technical interviews written in Python.
 | `0x06-starwars_api` | Script that prints all characters of a Star Wars movie |
 | `0x07-rotate_2d_matrix` | An in-place algorithm to rotate an n x n 2D matrix by 90 degrees clockwise |
 | `0x08-making_change` | A script that determines the fewest number of coins needed to meet a given amount `total` |
+| `0x09-island_perimeter` | A script that returns the perimeter of the island described in `grid` |
